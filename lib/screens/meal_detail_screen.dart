@@ -12,7 +12,7 @@ class MealDetailScreen extends StatelessWidget {
         title: Text('$mealId'),
       ),
       body: Center(
-        child: Text('The meal - $mealId!'),
+        child: Text('The meal'),
       ),
     );
   }
